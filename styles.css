@@ -86,7 +86,7 @@ body {
 }
 
 .btn-msg {
-  left: 70%;
+  left: 50%;
   transform: translateX(calc(-100% - 1rem));
   z-index: 1;
 }
